@@ -1,0 +1,3 @@
+[submodule "server-authentication"]
+	path = server-authentication
+	url = ./server-authentication
